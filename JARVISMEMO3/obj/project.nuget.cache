@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQ9zWsWo0BzAZWapwNWwR7k4vBxiG63ANNuGJiUx/+hNpphpc9QETAPipgKlxwEbdAezNoh6XlQMAOBfVOeMNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\47073656808.INFOSCS\\source\\repos\\JARVISMEMO3\\JARVISMEMO3\\JARVISMEMO3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\47073656808.INFOSCS\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.20.0\\microsoft.cognitiveservices.speech.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}
