@@ -60,14 +60,7 @@ namespace JARVISMEMO3
             borges = textBox1.Text;
         }
 
-        private async void button2_Click(object sender, EventArgs e)
-        {
-            Application.DoEvents();
-            var speechConfig = SpeechConfig.FromSubscription("60997aa2668846c6a7e553b121d271a3", "brazilsouth");
-            speechConfig.EnableDictation();
-            await FromMic(speechConfig);
-        }
-
+     
 
         async static Task FromMic(SpeechConfig speechConfig)
         {
@@ -114,8 +107,17 @@ namespace JARVISMEMO3
             Application.DoEvents();
         }
 
+        private async void button3_Click(object sender, EventArgs e)
+        {
+            Application.DoEvents();
+            var speechConfig = SpeechConfig.FromSubscription("60997aa2668846c6a7e553b121d271a3", "brazilsouth");
+            speechConfig.EnableDictation();
+            await FromMic(speechConfig);
+        }
 
+        private void label2_Click(object sender, EventArgs e)
+        {
 
-
+        }
     }
 }
