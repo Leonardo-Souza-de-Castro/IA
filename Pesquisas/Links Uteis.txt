@@ -1,0 +1,6 @@
+texto em fala: https://docs.microsoft.com/pt-br/azure/cognitive-services/speech-service/how-to-audio-content-creation
+fala em texto : https://docs.microsoft.com/pt-br/azure/cognitive-services/speech-service/get-started-speech-to-text?tabs=windowsinstall&pivots=programming-language-csharp
+
+https://azure.microsoft.com/pt-br/services/cognitive-services/speech-to-text/#overview
+https://azure.microsoft.com/pt-br/services/cognitive-services/text-to-speech/
+https://azure.microsoft.com/pt-br/services/cognitive-services/speech-translation/#overview
