@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Documents\\MEGAsync\\CASLU NOVO\\IA\\JARVISMEMO3\\JARVISMEMO3.csproj": {}
+    "C:\\Users\\47073656808.INFOSCS\\Desktop\\JARVISMEMO3\\JARVISMEMO3\\JARVISMEMO3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Documents\\MEGAsync\\CASLU NOVO\\IA\\JARVISMEMO3\\JARVISMEMO3.csproj": {
+    "C:\\Users\\47073656808.INFOSCS\\Desktop\\JARVISMEMO3\\JARVISMEMO3\\JARVISMEMO3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\MEGAsync\\CASLU NOVO\\IA\\JARVISMEMO3\\JARVISMEMO3.csproj",
+        "projectUniqueName": "C:\\Users\\47073656808.INFOSCS\\Desktop\\JARVISMEMO3\\JARVISMEMO3\\JARVISMEMO3.csproj",
         "projectName": "JARVISMEMO3",
-        "projectPath": "C:\\Users\\lucas\\Documents\\MEGAsync\\CASLU NOVO\\IA\\JARVISMEMO3\\JARVISMEMO3.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\MEGAsync\\CASLU NOVO\\IA\\JARVISMEMO3\\obj\\",
+        "projectPath": "C:\\Users\\47073656808.INFOSCS\\Desktop\\JARVISMEMO3\\JARVISMEMO3\\JARVISMEMO3.csproj",
+        "packagesPath": "C:\\Users\\47073656808.INFOSCS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\47073656808.INFOSCS\\Desktop\\JARVISMEMO3\\JARVISMEMO3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\47073656808.INFOSCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,12 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.21, 3.1.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -69,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

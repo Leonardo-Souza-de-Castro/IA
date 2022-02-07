@@ -110,12 +110,22 @@ namespace JARVISMEMO3
         private async void button3_Click(object sender, EventArgs e)
         {
             Application.DoEvents();
-            var speechConfig = SpeechConfig.FromSubscription("60997aa2668846c6a7e553b121d271a3", "brazilsouth");
+            var speechConfig = SpeechConfig.FromSubscription("codigo_da_azure_aqui", "brazilsouth");
             speechConfig.EnableDictation();
             await FromMic(speechConfig);
         }
 
         private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage3_Click(object sender, EventArgs e)
         {
 
         }

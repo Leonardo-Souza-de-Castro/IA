@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "asQxFCzju6f3B8KbV8MSdhmqQIlb0qg5ITxFqlDWsjZ/Q1vK/oHX+UCQQAJdmLjPaeLvLEvX0SnS3NCpNPJxtw==",
+  "dgSpecHash": "Oy1VZqx6sKgRgadHlLejptVhWpzT0cUXjCzegp9DuHwAywpiTJy5LYuM1rYN7wls2kREEMyTKAvwNJHCcS640Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Documents\\MEGAsync\\CASLU NOVO\\IA\\JARVISMEMO3\\JARVISMEMO3.csproj",
+  "projectFilePath": "C:\\Users\\47073656808.INFOSCS\\Desktop\\JARVISMEMO3\\JARVISMEMO3\\JARVISMEMO3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.20.0\\microsoft.cognitiveservices.speech.1.20.0.nupkg.sha512",
-    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+    "C:\\Users\\47073656808.INFOSCS\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.20.0\\microsoft.cognitiveservices.speech.1.20.0.nupkg.sha512"
   ],
   "logs": []
 }
